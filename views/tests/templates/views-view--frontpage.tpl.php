@@ -69,7 +69,7 @@
   <?php if ($more): ?>
     <?php print $more; ?>
   <?php endif; ?>
-
+  <div>this is another change</div>
   <?php if ($footer): ?>
     <div class="view-footer">
       <?php print $footer; ?>
@@ -81,5 +81,5 @@
       <?php print $feed_icon; ?>
     </div>
   <?php endif; ?>
-
+  <div>this is a real change</div>
 </div> <?php /* class view */ ?>
